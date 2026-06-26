@@ -1,6 +1,3 @@
-# enterprise-network-topology
-Dual-office enterprise network simulation in Cisco Packet Tracer with VLANs, inter-VLAN routing, WAN links, and departmental segmentation.
-
 # Enterprise Network Topology — Cisco Packet Tracer
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
