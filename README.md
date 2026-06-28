@@ -21,9 +21,10 @@ secure, organized, and efficient communication.
 **Course:** Computer Networks Lab  
 **Institution:** AIR University
 **Team Members:**
+- Muhammad Afnan Jadoon (241873)
 - Muhammad Ahsan Ali Shah (241852)
 - Muhammad Abdul Hanan (241789)
-- Muhammad Afnan Jadoon (241873)
+
 
 ---
 
